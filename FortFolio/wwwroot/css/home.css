@@ -1,0 +1,26 @@
+﻿
+:root {
+    --bg-color: #1f242d;
+    --second-bg-color: #323946;
+    --text-color: #fff;
+    --main-color: #0fc469;
+}
+.sub-home-portfolio div div h5{
+    font-size:3rem;
+    font-weight:600;
+}
+.sub-home-portfolio div div p {
+    font-size: 1.6rem;
+}
+.btn {
+    display: inline-block;
+    padding: 1rem 2.8rem;
+    background: var(--main-color);
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem var(--main-color);
+    font-size: 1.6rem;
+    color: var(--second-bg-color);
+    letter-spacing: .1rem;
+    font-weight: 600;
+    transition: .5s ease;
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortFolio", "FortFolio\FortFolio.csproj", "{DE888C90-7456-4727-90D9-F088151E1DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE888C90-7456-4727-90D9-F088151E1DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE888C90-7456-4727-90D9-F088151E1DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE888C90-7456-4727-90D9-F088151E1DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE888C90-7456-4727-90D9-F088151E1DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17F59D97-8DD9-4604-874A-4C3F202E0D59}
+	EndGlobalSection
+EndGlobal
